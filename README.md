@@ -37,14 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adiyoga-grune&show_icons=true&theme=tokyonight" alt="adiyoga stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiyoga-grune&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adiyoga languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiyoga-grune&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="adiyoga streak"/>
-</p>
-
 ---
 
 ### 🌏 More About Me
