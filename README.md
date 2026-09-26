@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adi Yoga</h1>
-<h3 align="center">🚀 Full-Stack Developer & Tech Lead | 🤖 AI-Augmented Engineer | 🌴 Based in Bali, Indonesia</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 AI-Augmented Engineer | 🌴 Based in Bali, Indonesia</h3>
 
 <p align="center"><i>"From UI/UX design to production, 50+ projects delivered and now shipping faster with AI."</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/50%2B_Projects_Delivered-0e75b6?style=for-the-badge" alt="50+ Projects Delivered" />
-  <img src="https://img.shields.io/badge/Tech_Lead-7aa2f7?style=for-the-badge" alt="Tech Lead" />
   <img src="https://img.shields.io/badge/UI%2FUX_%2B_Engineering-bb9af7?style=for-the-badge" alt="UI/UX + Engineering" />
 </p>
 
